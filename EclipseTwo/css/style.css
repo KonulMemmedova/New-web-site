@@ -1,0 +1,59 @@
+header{
+    background-image: url(../img/home-banner-bg.png.webp);
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+.bg-larche-img{
+    margin-left: auto;
+   padding-top: 100px;
+}
+.top-text{
+    padding-top: 70px;
+}
+
+.feature-item{
+    margin: 30px 0px;
+    border-right: 1px solid rgba(130, 139, 178, 0.2);
+    padding-right: 20px;
+}
+nav{
+    box-shadow: none !important;
+    background-color: transparent !important;
+}
+
+.fs-48px{
+    font-size: 48px;
+}
+.iclass i{
+    font-size: 30px;
+    color: #828bb2;
+    padding-top: 27px;
+    padding-right: 7px;
+  
+}
+
+
+.iclass::before{
+    margin: 30px 0px;
+    border-right: 1px solid rgba(130, 139, 178, 0.2);
+    padding-right: 20px;
+    border-right: 3px solid grey;
+}
+
+#twosection{
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
